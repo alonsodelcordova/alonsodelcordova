@@ -5,7 +5,7 @@ Mi nombre es Alonso Cordova Sanchez, cuento con experiencia en:
 - **Angular**
 - **React**
 
-### Dackend
+#### Backend
 - **Django**
 - **Flask**
 - **FastApi**
