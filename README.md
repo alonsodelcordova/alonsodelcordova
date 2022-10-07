@@ -12,10 +12,10 @@ Mi nombre es Alonso Cordova Sanchez, cuento con experiencia en:
 
 Mi experiencia:
 - Julio 2021 - Marzo 2022
-  > 📫 [http://www.tsspe.com/](Tss PERU)
+  > 📫 [Tss PERU](http://www.tsspe.com/)
   > #### Frontend Developer (Angular)
 
 - Mayo 2022 - Actualidad
-  > 📫 [https://www.cajapiura.pe/](Caja Piura) 
+  > 📫 [Caja Piura](https://www.cajapiura.pe/) 
   > #### Desarrollador - Área de Tecnología (RPG y Java)
 
