@@ -1,12 +1,21 @@
 ### Hola
-Mi nombre es Alonso Cordova Sanchez, cuento con experiencia en **angular**,
+Mi nombre es Alonso Cordova Sanchez, cuento con experiencia en:
 
-Here are some ideas to get you started:
+#### Frontend
+- **angular**
+- **react**
 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Dackend
+- **Django**
+- **Flask**
+- **FastApi**
+
+Mi experiencia:
+- Julio 2021 - Marzo 2022
+  > 📫 [http://www.tsspe.com/](Tss PERU)
+  > #### Frontend Developer (Angular)
+
+- Mayo 2022 - Actualidad
+  > 📫 [https://www.cajapiura.pe/](Caja Piura) 
+  > #### Desarrollador - Área de Tecnología (RPG y Java)
+
