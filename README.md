@@ -24,5 +24,5 @@ Mi nombre es Alonso Cordova Sanchez, cuento con experiencia en:
   > #### Desarrollador - Área de Tecnología (RPG y Java)
 
 - Noviembre 2022 - actualidad
- > 📫 [Tss PERU](http://www.tsspe.com/)
- > ####  FullStack (Angular y .NET) 
+  > 📫 [Tss PERU](http://www.tsspe.com/)
+  > ####  FullStack (Angular y .NET) 
