@@ -19,10 +19,8 @@ Mi nombre es Alonso Cordova Sanchez, cuento con experiencia en:
   > 📫 [Tss PERU](http://www.tsspe.com/)
   > #### Frontend Developer (Angular)
 
-- Mayo 2022 - Octubre 2022
+- Mayo 2022 - Actualidad
   > 📫 [Caja Piura](https://www.cajapiura.pe/) 
   > #### Desarrollador - Área de Tecnología (RPG y Java)
+  > #### Desarrollador - SpringBoot (Noviembre)
 
-- Noviembre 2022 - actualidad
-  > 📫 [Tss PERU](http://www.tsspe.com/)
-  > ####  FullStack (Angular y .NET) 
