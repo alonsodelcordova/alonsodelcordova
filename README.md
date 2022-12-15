@@ -1,15 +1,18 @@
 ### Hola
 Mi nombre es Alonso Cordova Sanchez, cuento con experiencia en:
 
-#### Frontend
+### Frontend
 - **Angular**
 - **React**
 
-#### Backend
+### Backend
+#### Python
 - **Django**
 - **Flask**
 - **FastApi**
 
+#### Java
+- **Spring Boot**
 
 # Proyectos
 - [EDUCA SM](https://educasm-peru2.web.app)
@@ -22,5 +25,5 @@ Mi nombre es Alonso Cordova Sanchez, cuento con experiencia en:
 - Mayo 2022 - Actualidad
   > 📫 [Caja Piura](https://www.cajapiura.pe/) 
   > #### Desarrollador - Área de Tecnología (RPG y Java)
-  > #### Desarrollador - SpringBoot (Noviembre)
+  > #### Desarrollador - Java (SpringBoot) (Noviembre - Actualidad)
 
